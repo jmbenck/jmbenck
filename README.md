@@ -14,8 +14,7 @@ I'm a programmer, Pythonist and 3D enthusiast specialized in Virtual Reality and
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<hr>
-
+###
 
 <div>
   <a href="mailto:jmbenck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
