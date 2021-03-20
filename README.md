@@ -1,4 +1,4 @@
-### Hi there 👋 My name is João Marcos!
+### Hi there 👋 my name is João Marcos!
 
 I'm a programmer, Pythonist and 3D enthusiast specialized in Virtual Reality and Augmented Reality. I'm currently improving my Python skills and also learning Django. I like to share my code and I'm trying to be more active in this amazing community.
 
