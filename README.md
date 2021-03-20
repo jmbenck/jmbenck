@@ -3,8 +3,8 @@
 I'm a programmer, Pythonist and 3D enthusiast specialized in Virtual Reality and Augmented Reality. I'm currently improving my Python skills, learning Django and Web Scraping. I like to share my codes, and I'm trying to be more active in this amazing community.
 
 <a href="https://github.com/jmbenck">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jmbenck&show_icons=true&theme=dark&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmbenck&layout=compact&langs_count=8&hide=php,blade&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jmbenck&show_icons=true&theme=nord&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmbenck&layout=compact&langs_count=8&hide=php,blade&theme=nord"/>
 </a>
 <div style="display: inline_block"><br>
   <a href="https://python.org"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
