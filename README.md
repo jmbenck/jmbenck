@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is João Marcos!
 
-I'm a programmer, Pythonist and 3D enthusiast with extensive experience in Virtual Reality and Augmented Reality. I'm currently improving my Python skills, learning Django and Web Scraping. I'm trying to be more active in this amazing community.
+I'm a programmer and 3D enthusiast with extensive experience in Virtual Reality and Augmented Reality. I'm currently improving my Python skills, learning Django and Web Scraping. I'm trying to be more active in this amazing community.
 
 <a href="https://github.com/jmbenck">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jmbenck&show_icons=true&theme=nord&count_private=true"/>
