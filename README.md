@@ -8,7 +8,7 @@ I'm a programmer and 3D enthusiast with extensive experience in Virtual Reality 
 </a>
 <div style="display: inline_block"><br>
   <a href="https://python.org"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.djangoproject.com/"><img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></a>
+  <a href="https://www.djangoproject.com/"><img align="center" alt="Django" height="30" width="40" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
